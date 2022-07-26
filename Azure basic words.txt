@@ -1,0 +1,4 @@
+Sprint:a sprint is a set period of time during which specific work has to be 
+completed and made ready for review.
+
+https://github.com/stacksimplify/azure-aks-kubernetes-masterclass
